@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTabilo&theme=solarized-dark&layout=compact)
-# Hello, world! <img src="img/wave.gif" width="30px">
+# Hello, world!
 
 - 👋 Hi, I’m @PabloTabilo and I'am a machine learning / software engineer. I work on digital security.
 - 👀 I’m interested in data science topics and software development.
