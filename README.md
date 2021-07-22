@@ -1,10 +1,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTabilo&theme=solarized-dark&layout=compact)
 # Hello, world!
 
-- 👋 Hi, I’m @PabloTabilo and I'am a machine learning / software engineer. I work on digital security.
-- 👀 I’m interested in data science topics and software development.
-- 🌱 I’m currently learning django and react.
-- 💞️ I’m looking to collaborate on data science projects or dev an application.
+- 👋 Hi, I’m @PabloTabilo a machine learning / software engineer. I work on digital security.
+- 👀 My interests are in data science topics and software development.
+- 🌱 Currently I'm learning django and react frameworks.
+- 💞️ Also I'am looking for collaboration on data science projects or dev applications.
 - 📫 How to reach me?, Send me a message to my linkedin: https://www.linkedin.com/in/pablo-tabilo-952995156/
 
 <!---
